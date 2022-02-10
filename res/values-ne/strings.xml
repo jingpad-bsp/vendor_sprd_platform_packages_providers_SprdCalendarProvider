@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">"क्यालेडर भण्डारण"</string>
+<string name="calendar_default_name">"पूर्वनिर्धारित"</string>
+<string name="calendar_info">"सुचना सफा"</string>
+<string name="calendar_info_error">"त्रुटि"</string>
+<string name="calendar_info_no_calendars">"क्यालेन्डरहरु छैनन्"</string>
+<string name="calendar_info_events">"घटनाहरु: <xliff:g id = "events">%1$d</xliff:g>"</string>
+<string name="calendar_info_events_dirty">"घटनाहरु: <xliff:g id = "events">%1$d</xliff:g>, असुरक्षीत: <xliff:g id = "dirty events">%2$d</xliff:g>"</string>
+<string name="provider_label">"पात्रो"</string>
+<string name="debug_tool_delete_button">"अहिले मेटाउनुहोस"</string>
+<string name="debug_tool_start_button">"सुरु गर्नुहोस्"</string>
+<string name="debug_tool_message">"तपाईं 1)आफ्नो पात्रो डाटावेजलाई SD कार्ड/USB भण्डारणमा प्रतिलिपि गर्ने, जुन कुनै पनि अनुप्रयोगद्वारा पठनीय हुन्छ, र 2) यसलाई इमेल गर्ने बारेमा हुनुहुन्छ। तपाईंले यसलाई सफलतापूर्वक प्रतिलिपि गर्नु भएपछि प्रतिलिपिलाई मेटाउन साधनलाई बन्द गर्न वा प्राप्त भएपछि इमेल गर्न सम्झिनुहोस्।"</string>
+<string name="debug_tool_email_sender_picker">"तपाइको फाईल पठाउनको लागि कार्यक्रम रोज्नुहोस"</string>
+<string name="debug_tool_email_subject">"क्यालेन्डर डाटाबेस संलग्न भयो"</string>
+<string name="debug_tool_email_body">"मेरो क्यालेन्डर डाटाबेससंगै सबै मेरो व्यक्तिगत सुचनाहरु र मेरो भेटघाटहरु संग्लंग भयो। सुरक्षीत् गरि राख्नुहोस।"</string>
+<string name="no_title_label">"(शिर्षक छैन)"</string>
+</resources>

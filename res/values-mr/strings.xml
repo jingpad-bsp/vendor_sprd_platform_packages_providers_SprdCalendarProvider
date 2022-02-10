@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">"कॅलेंडर स्टोरेज"</string>
+<string name="calendar_default_name">"डिफॉल्ट"</string>
+<string name="calendar_info">"कॅलेंडरची माहिती"</string>
+<string name="calendar_info_error">"चूक"</string>
+<string name="calendar_info_no_calendars">"कोणत्याही दिनदर्शिका नाहीत"</string>
+<string name="calendar_info_events">"ईव्हंटस: <xliff:g id ="events">%1$d</xliff:g>"</string>
+<string name="calendar_info_events_dirty">"ईव्हंटस: <xliff:g id ="events">%1$d</xliff:g>, सेव्हड नाही: <xliff:g id ="dirty events">%2$d</xliff:g>"</string>
+<string name="provider_label">"कॅलेंडर"</string>
+<string name="debug_tool_delete_button">"आता डिलीट करा"</string>
+<string name="debug_tool_start_button">"सुरू करा"</string>
+<string name="debug_tool_message">"आपण हे करत आहात- 1) कोणत्याही एपद्वारे रिडेबल असलेल्या SD कार्ड/USB स्टोरेजवर आपल्या कॅलेंडर डेटाबेसची‌ कॉपी करा आणि 2) ती ईमेल करा. आपण डिव्हाईसपासून ती कॉपी केल्यानंतर किंवा ईमेल मिळाल्यानंतर लएचच कॉपी डिलीट करायला विसरू नका."</string>
+<string name="debug_tool_email_sender_picker">"आपली फाईल पाठवण्यासाठी एक प्रोग्राम निवडा"</string>
+<string name="debug_tool_email_subject">"कॅलेंडर Db जोडला आहे"</string>
+<string name="debug_tool_email_body">"माझ्या सर्व अपॉइंटमेंटस आणि व्यक्तिगत माहितीसह माझा कॅलेंडर डेटाबेस जोडला आहे. काळजीपूर्वक हाताळा."</string>
+<string name="no_title_label">"(शीर्षक नाही)"</string>
+</resources>

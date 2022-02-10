@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">Egutegiaren Memoria</string>
+<string name="calendar_default_name">Lehenetsia</string>
+<string name="calendar_info">Egutegi informazioa</string>
+<string name="calendar_info_error">Errorea</string>
+<string name="calendar_info_no_calendars">Egutegirik ez</string>
+<string name="calendar_info_events">Hitzorduak: <xliff:g id = "events">%1$d</xliff:g></string>
+<string name="calendar_info_events_dirty">Hitzorduak: <xliff:g id = "events">%1$d</xliff:g>, Gorde ez direnak: <xliff:g id = "dirty events">%2$d</xliff:g></string>
+<string name="provider_label">"Egutegia"</string>
+<string name="debug_tool_delete_button">Ezabatu orain</string>
+<string name="debug_tool_start_button">Hasi</string>
+<string name="debug_tool_message">Orain 1) egutegiaren datu-basearen kopia bat egingo duzu SD txartelean edo USB memorian, aplikazioek irakur dezaketena, eta 2) posta elektronikoz bidaliko duzu. Kopia gailutik kanpo kopiatu ostean edo hartzaileak kopiaren mezua jaso ostean, ezabatu zure kopia.</string>
+<string name="debug_tool_email_sender_picker">Aukeratu fitxategia bidaltzeko programa bat</string>
+<string name="debug_tool_email_subject">Egutegiko bd eranskita</string>
+<string name="debug_tool_email_body">Nire Egutegi datu-basea dago erantsita, nire hitzordu eta informazio pertsonal guztiarekin. Kontuz maneiatu.</string>
+<string name="no_title_label">(Izenbururik ez)</string>
+</resources>

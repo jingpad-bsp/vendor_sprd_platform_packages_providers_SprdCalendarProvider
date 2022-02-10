@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">કેલેન્ડર સંગ્રહ</string>
+<string name="calendar_default_name">પૂર્વનિર્ધારીત</string>
+<string name="calendar_info">કેલેન્ડર માહિતી</string>
+<string name="calendar_info_error">ભૂલ</string>
+<string name="calendar_info_no_calendars">કેલેન્ડર્સ નથી</string>
+<string name="calendar_info_events">પ્રસંગો: <xliff:g id = "events">%1$d</xliff:g></string>
+<string name="calendar_info_events_dirty">પ્રસંગો: <xliff:g id = "events">%1$d</xliff:g>, સંગ્રહિત નથી: <xliff:g id = "dirty events">%2$d</xliff:g></string>
+<string name="provider_label">કેલેન્ડર</string>
+<string name="debug_tool_delete_button">હાલમાં ડિલીટ કરો</string>
+<string name="debug_tool_start_button">શરૂ કરો</string>
+<string name="debug_tool_message">તમે હાલામાં છો 1) SD કાર્ડ /USB સ્ટોરેજમાં કોપી કરવામાં છો, જે એપ્લિકેશન દ્વારા વાંચવાયોગ્ય છે અને 2) તેને ઇમેઇલ કરો. તમે ડિવાઇસ કપરથી સફળતાપૂર્વર કોપી કરી લીધુ હોય કે ઇમેઇલ મળી ગયો હોય કે તરત જ કોપી ડિલીટ કરવાનું યાદ રાખો.</string>
+<string name="debug_tool_email_sender_picker">તમારી ફાઇલ મોકલવા માટે પ્રોગ્રામ પસંદ કરો</string>
+<string name="debug_tool_email_subject">કેલેન્ડર Db જોડેલ છે. </string>
+<string name="debug_tool_email_body">જોડેલ મોરો કેલેન્ડર ડેટાબેઝ મારી તમામ પૂર્વમંજૂરીઓ અને અંગત માહિતી સાથછે છે. સંભાળપૂર્વક રાખો.</string>
+<string name="no_title_label">(કોઇ શીર્ષક નહીં)</string>
+</resources>

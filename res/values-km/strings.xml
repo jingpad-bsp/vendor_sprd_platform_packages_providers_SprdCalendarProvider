@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">"ទំហំផ្ទុកប្រតិទិន"</string>
+<string name="calendar_default_name">តាមលំនាំដើម</string>
+<string name="calendar_info">"ព័ត៌មានប្រតិទិន"</string>
+<string name="calendar_info_error">កំហុស</string>
+<string name="calendar_info_no_calendars">"គ្មានប្រតិទិន"</string>
+<string name="calendar_info_events">"ព្រឹតិ្តការណ៍៖ <xliff:g id = "events">%1$d</xliff:g>"</string>
+<string name="calendar_info_events_dirty">"ព្រឹត្តិការណ៍៖ <xliff:g id = "events">%1$d</xliff:g> មិនបានរក្សាទុក៖ <xliff:g id = "dirty events">%2$d</xliff:g>"</string>
+<string name="provider_label">ប្រតិទិន</string>
+<string name="debug_tool_delete_button">"លុប​ឥឡូវ"</string>
+<string name="debug_tool_start_button">"ចាប់ផ្ដើម"</string>
+<string name="debug_tool_message">"អ្នកប្រុងនឹង 1) ធ្វើការចម្លងមូលដ្ឋានទិន្នន័យប្រតិទិនអ្នកទៅកាន់កាត SD /ឧបករណ៍ផ្ទុក USB ដែលអាចអានបានដោយកម្មវិធីណាមួយ និង 2) ផ្ញើវាតាមអ៊ីមែល។ សូមចាំថាត្រូវលុបច្បាប់ចម្លងភ្លាមៗ ពេលអ្នកចម្លងបានជោគជ័យចេញពីឧបករណ៍ហើយ ឬអ៊ីមែលត្រូវបានទទួលហើយ។"</string>
+<string name="debug_tool_email_sender_picker">"ជ្រើស​កម្មវិធី​ដើម្បី​ផ្ញើ​ឯកសារ​របស់​អ្នក"</string>
+<string name="debug_tool_email_subject">"ប្រតិទិន Db ត្រូវបានភ្ជាប់"</string>
+<string name="debug_tool_email_body">"ភ្ជាប់មកជាមួយនេះគឺជាមូលដ្ឋានទិន្នន័យប្រតិទិនខ្ញុំដែលមានការណាត់ជួប និងព័ត៌មានផ្ទាល់ខ្លួនរបស់ខ្ញុំទាំងអស់។ សូមចាត់ចែងដោយប្រុងប្រយ័ត្ន"</string>
+<string name="no_title_label">"(គ្មានចំណងជើង)"</string>
+</resources>

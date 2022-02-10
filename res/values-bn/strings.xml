@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">ক্যালেন্ডার সংগ্রহস্থল</string>
+<string name="calendar_default_name">ডিফল্ট</string>
+<string name="calendar_info">ক্যালেন্ডার তথ্য</string>
+<string name="calendar_info_error">ভুল</string>
+<string name="calendar_info_no_calendars">"কোন ক্যালেন্ডার"</string>
+<string name="calendar_info_events">ঘটনা:<xliff:g id = "events">%1$d</xliff:g></string>
+<string name="calendar_info_events_dirty">ঘটনা: <xliff:g id = "events">%1$d</xliff:g>, অসংরক্ষিত:<xliff:g id = "dirty events">%2$d</xliff:g></string>
+<string name="provider_label">ক্যালেন্ডার</string>
+<string name="debug_tool_delete_button">এখন মুছে দিন</string>
+<string name="debug_tool_start_button">আরম্ভ</string>
+<string name="debug_tool_message">আপনি) 1 ওপর কোনো অ্যাপ্লিকেশন দ্বারা পাঠযোগ্য যা এসডি কার্ড / USB সংগ্রহস্থল, আপনি আপনার ক্যালেন্ডারে ডাটাবেস একটি কপি করতে হয়, এবং 2) ইমেল এটি. আপনি সফলভাবে ডিভাইস অফ এটি কপি করা বা ইমেল গৃহীত হয় যত তাড়াতাড়ি কপি মুছে দিন ভুলবেন না.</string>
+<string name="debug_tool_email_sender_picker">আপনার ফাইল পাঠাতে একটি প্রোগ্রাম নির্বাচন করুন</string>
+<string name="debug_tool_email_subject">ক্যালেন্ডার Db সংযুক্ত</string>
+<string name="debug_tool_email_body">সংযুক্ত আমার সব কলকব্জা এবং ব্যক্তিগত তথ্য আমার ক্যালেন্ডার ডাটাবেস হয়. সতর্কতার সাথে হ্যান্ডেল.</string>
+<string name="no_title_label">"(কোনও শিরোনাম নেই)"</string>
+</resources>

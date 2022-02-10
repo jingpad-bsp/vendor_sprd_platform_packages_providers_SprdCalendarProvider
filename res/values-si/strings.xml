@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">"දින දර්ශන ගබඩාව"</string>
+<string name="calendar_default_name">"සුපුරුදු"</string>
+<string name="calendar_info">"දින දර්ශන තොරතුරු"</string>
+<string name="calendar_info_error">"දෝෂය"</string>
+<string name="calendar_info_no_calendars">"දින දර්ශන නැත"</string>
+<string name="calendar_info_events">"සිද්ධි: <xliff:g id = "events">%1$d</xliff:g>"</string>
+<string name="calendar_info_events_dirty">"සිද්ධි: <xliff:g id = "events">%1$d</xliff:g>, සුරැකී නැති: <xliff:g id = "dirty events">%2$d</xliff:g>"</string>
+<string name="provider_label">"දින දර්ශනය"</string>
+<string name="debug_tool_delete_button">"දැන් මකන්න"</string>
+<string name="debug_tool_start_button">"ආරම්භ කරන්න"</string>
+<string name="debug_tool_message">"ඔබ 1) ඔබේ කැලැන්ඩරයේ දත්ත සමූහයේ පිටපතක් ඕනෑම යෙදුමකින් කියවීමට හැකි SD කාඩ්පතට/USB ගබඩාවට සෑදීම,සහ 2) එයා ඊමේල් කිරීම සිදුකිරීමට ආසන්නයි. ඔබ එය සාර්ථකව පිටපත් කල විගස හෝ ඊමේල් එක ලැබුණු විගස එම පිටපත මැකීමට මතක තබාගන්න."</string>
+<string name="debug_tool_email_sender_picker">"ඔබේ ගොනුව යැවීමට වැඩසටහනක් තෝරන්න"</string>
+<string name="debug_tool_email_subject">"දින දර්ශන දත්ත සමුහය අමුණන ලදී"</string>
+<string name="debug_tool_email_body">"අමුණ ඇත්තේ මගේ හමුවීම් සහ පෞද්ගලික තොරතුරු සහිත දින දර්ශනයයි. ප්‍රවේශමෙන් හසුරුවන්න." </string>
+<string name="no_title_label">"මාතෘකාවක් නොමැත)"</string>
+</resources>

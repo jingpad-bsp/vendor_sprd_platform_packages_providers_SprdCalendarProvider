@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">క్యాలెండర్ స్టోరేజీ  </string>
+<string name="calendar_default_name">డిఫాల్ట్</string>
+<string name="calendar_info">క్యాలెండర్ ఇన్ఫో</string>
+<string name="calendar_info_error">"ఎర్రర్"</string>
+<string name="calendar_info_no_calendars">కేలండర్స్ ఏమీ లేవు</string>
+<string name="calendar_info_events">ఈవెంట్స్: <xliff:g id = "events">%1$d</xliff:g></string>
+<string name="calendar_info_events_dirty">ఈవెంట్స్: <xliff:g id = "events">%1$d</xliff:g>, అన్ సేవుడ్ : <xliff:g id = "dirty events">%2$d</xliff:g></string>
+<string name="provider_label">"కాలెండర్"</string>
+<string name="debug_tool_delete_button">ఇప్పుడే తొలగించు</string>
+<string name="debug_tool_start_button">మొదలుపెట్టు</string>
+<string name="debug_tool_message">మీరు ఇప్పుడు 1) మీ క్యాలెండర్ డేటాబేస్ కాపీని SD కార్డ్/USB స్టోరేజీలోకి చేయబోతున్నారు, ఇది ఏ అప్లికేషన్ ద్వారానైనా చదవబడుతుంది, మరియు 2) ఈమెయిల్ పంపుకోవచ్చు. మీరు దీన్ని విజయవంతంగా ఏదైనా సాధనం లోకి కాపీ చేసుకున్న తర్వాత లేదా ఈ మెయిల్ అందిన తర్వాత తొలగించాలని గుర్తుంచుకోండి.  </string>
+<string name="debug_tool_email_sender_picker">మీ ఫైల్ ను పంపడానికి ఒక ప్రోగ్రాం ఎంచుకోండి  </string>
+<string name="debug_tool_email_subject">క్యాలెండర్ Db జతచేయబడింది </string>
+<string name="debug_tool_email_body">జతచేయబడింది నా వ్యక్తిగత సమాచారం మరియు అపాయింట్ మెంట్లు కలిగిన ఒక క్యాలెండర్ డేటాబేస్. దీన్ని జాగ్రత్తగా నిర్వహించండి. </string>
+<string name="no_title_label">"(విషయం లేదు)"</string>
+</resources>

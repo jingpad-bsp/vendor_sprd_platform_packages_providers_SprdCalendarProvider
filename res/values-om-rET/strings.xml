@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">"Kuusaa lakkoofsa  guyyaa"</string>
+<string name="calendar_default_name">"Durtii"</string>
+<string name="calendar_info">"Odeeffannoo lakkoofsa guyyaa"</string>
+<string name="calendar_info_error">"Dogoggoora"</string>
+<string name="calendar_info_no_calendars">"Dhahootni guyyaa hin jiraan"</string>
+<string name="calendar_info_events">"taateewwan: <xliff:g id = "events">%1$d</xliff:g>"</string>
+<string name="calendar_info_events_dirty">"taateewwan: <xliff:g id = "events">%1$d</xliff:g>, kan hin olkaa’amne: <xliff:g id = "dirty events">%2$d</xliff:g>"</string>
+<string name="provider_label">"Dhaha guyyaa/Kalaandara"</string>
+<string name="debug_tool_delete_button">"Amma balleessi"</string>
+<string name="debug_tool_start_button">"Jalqabi"</string>
+<string name="debug_tool_message">"Daataabeezii lakkoofsa guyyaa 1) gara  SD card/kuusaa USB tti garagalchuuf jetta, kunis appilikeeshinii kamiinuu kan dubbifamuu danda’uu fi, 2) erguuf jetta. Akkuam meeshicha irraa milkaa’inaan garagalchiteen yookan ergaan fudhatameen garalchicha balleessuu yaadadhu."</string>
+<string name="debug_tool_email_sender_picker">"Galmee kee erguuf choose sagantaa filadhu"</string>
+<string name="debug_tool_email_subject">"Db lakkoofsa guyyaa walitti qabsiifameera"</string>
+<string name="debug_tool_email_body">"Kan walitti qabsiifame daataabeezii lakkoofsa guyyaa koo fi beellamawwanii f iodeeffannoo dhuunfaati . Of eeggannoo qabuu."</string>
+<string name="no_title_label">"Mata duree hin qabu"</string>
+</resources>

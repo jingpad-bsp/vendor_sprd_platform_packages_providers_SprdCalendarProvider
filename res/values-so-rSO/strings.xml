@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">"Kaydiyaha Calendarka"</string>
+<string name="calendar_default_name">"Cilado"</string>
+<string name="calendar_info">"Macluumaadka calendar"</string>
+<string name="calendar_info_error">"Cillad"</string>
+<string name="calendar_info_no_calendars">"Majiraan kaltirsiyo"</string>
+<string name="calendar_info_events">"Dhacdooyinka: <xliff:g id = "events">%1$d</xliff:g>"</string>
+<string name="calendar_info_events_dirty">"Dhacdooyinka: <xliff:g id = "events">%1$d</xliff:g>Aan laseefgarayn: <xliff:g id = "dirty events">%2$d</xliff:g>"</string>
+<string name="provider_label">"Ka-tirsiga"</string>
+<string name="debug_tool_delete_button">"Hada tirtir"</string>
+<string name="debug_tool_start_button">"Bilaaw"</string>
+<string name="debug_tool_message">"Waxaad doonaysaa in aad 1) koobi kaqaadato macluumaad kaydiyaha calendarkaaga adoo galinaaya kaydiyaha kaarka SD/USB ga, taasoo uu appkasta uu aqrinkaro, iyo 2) aadna email udirto. Xasuusnoow inaad tirtirto koobiga islamarka aad kuguulaysato kakoobigaraynta ama emailka lahelo."</string>
+<string name="debug_tool_email_sender_picker">"Dooro barnaamij si aad udirto faylkaaga"</string>
+<string name="debug_tool_email_subject">"Calendarka Db ga lasoo lifaaqay"</string>
+<string name="debug_tool_email_body">"Lifaaqaan waa kaydka macluumaadka calendarkayga ayna kujiraan dhamaan balamahayga iyo macluumaadkayga shaqsiga. U ilaali si taxadarleh."</string>
+<string name="no_title_label">"(bilaa ciwaan)"</string>
+</resources>

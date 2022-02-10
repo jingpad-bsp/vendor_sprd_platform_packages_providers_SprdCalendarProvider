@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">கேலண்டர் சேமிப்பகம்</string>
+<string name="calendar_default_name">இயல்பான</string>
+<string name="calendar_info">கேலண்டர் தகவல்</string>
+<string name="calendar_info_error">"பிழை"</string>
+<string name="calendar_info_no_calendars">நாட்காட்டிகள் இல்லை</string>
+<string name="calendar_info_events">நிகழ்வுகள்: <xliff:g id = "events">%1$d</xliff:g></string>
+<string name="calendar_info_events_dirty">நிகழ்வுகள்: <xliff:g id = "events">%1$d</xliff:g>, சேமிக்கப்படாதவை: <xliff:g id = "dirty events">%2$d</xliff:g></string>
+<string name="provider_label">"நாள்காட்டி"</string>
+<string name="debug_tool_delete_button">இப்போது அழிக்கவும்</string>
+<string name="debug_tool_start_button">துவக்கவும்</string>
+<string name="debug_tool_message">நீங்கள் 1) எந்த அப்ளிகேஷனாலும் படிக்கப்படக்கூடிய உங்கள் கேலண்டர் தரவுத்தளத்தினை  SD கார்டு /USB சேமிப்பகத்திற்கு நகலெடுக்க, மற்றும் 2) அதனை மின்ன்ஞ்சல் செய்யவிருக்கிறீர்கள்.சாதனத்தில் இருந்து வெற்றிகரமாக நகலெடுத்தபின்னர் அல்லது மின்ன்ஞ்சல் பெற்றபின்னர் கூடியவிரைவில் நகலை அழித்துவிட மறாக்காதீர்கள். </string>
+<string name="debug_tool_email_sender_picker">உங்கள் கோப்பினை அனுப்ப ஒருபுரோகிராம் தெரிவு செய்க</string>
+<string name="debug_tool_email_subject">கேலண்டர் Db இணைக்கப்பட்டுள்ளது</string>
+<string name="debug_tool_email_body">இணைக்கப்பட்டிருப்பது,எனது முன்பதிந்த சந்திப்புக்கள் மற்றும் தனிப்பட்ட தகவல்களைக் கொண்ட எனது கேலண்டர் தரவுத்தளம் ஆகும். கவனமாக கையாளவும்.</string>
+<string name="no_title_label">"தலைப்பு இல்லை"</string>
+</resources>

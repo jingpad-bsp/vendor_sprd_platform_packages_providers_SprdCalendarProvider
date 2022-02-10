@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">"କ୍ୟାଲେଣ୍ଡର୍‌ ଷ୍ଟୋରେଜ୍‌"</string>
+<string name="calendar_default_name">"ଡିଫଲ୍ଟ"</string>
+<string name="calendar_info">"କ୍ୟାଲେଣ୍ଡର୍‌ ଇନ୍‌ଫୋ"</string>
+<string name="calendar_info_error">"ତ୍ରୁଟି"</string>
+<string name="calendar_info_no_calendars">"କ୍ୟାଲେଣ୍ଡର୍‌ ନାହିଁ"</string>
+<string name="calendar_info_events">"ଘଟଣାବଳୀ: <xliff:g id ="events">%1$d</xliff:g>"</string>
+<string name="calendar_info_events_dirty">"ଘଟଣାବଳୀ: <xliff:g id ="events">%1$d</xliff:g>, ସେଭ୍‌ କରାଯାଇନଥିବା: <xliff:g id ="dirty events">%2$d</xliff:g>"</string>
+<string name="provider_label">"କେଲେଣ୍ଡର"</string>
+<string name="debug_tool_delete_button">"ବର୍ତ୍ତମାନ ଅପସାରିତ କରନ୍ତୁ"</string>
+<string name="debug_tool_start_button">"ଆରମ୍ଭ"</string>
+<string name="debug_tool_message">"ଆପଣ 1) SD କାର୍ଡ଼/USB ଷ୍ଟୋରେଜ୍‌ରେ ଆପଣଙ୍କ କ୍ୟାଲେଣ୍ଡର ଡାଟାବେସ୍‌ର ଏକ କପି କରିବାକୁ ଯାଉଛନ୍ତି, ଯାହାକି ଯେକୌଣସି ଆପ୍‌ ଦ୍ୱାରା ପଢ଼ିହେବା ଯୋଗ୍ୟ, ଏବଂ 2)ଏହାକୁ ଇମେଲ କରିବାକୁ ଯାଉଛନ୍ତି | ମନେରଖନ୍ତୁ ଆପଣ ଏହାକୁ ଡିଭାଇସ୍‌ରେ ସଫଳତାର ସହ କପି କରିବା ପରେପରେ ଏବଂ ଇମେଲ୍‌ ରିସିଭ୍‌ କଲାପରେ କପିକୁ ଅପସାରିତ କରନ୍ତୁ |"</string>
+<string name="debug_tool_email_sender_picker">"ଆପଣଙ୍କ ଫାଇଲ ପଠେଇବାକୁ ଗୋଟିଏ ପ୍ରୋଗ୍ରାମକୁ ବାଛନ୍ତୁ"</string>
+<string name="debug_tool_email_subject">"କ୍ୟାଲେଣ୍ଡର୍‌ Db ସଂଲଗ୍ନକୃତ"</string>
+<string name="debug_tool_email_body">"ସଂଲଗ୍ନ ହୋ‌ଇଥିବା ମୋର କ୍ୟାଲେଣ୍ଡର୍‌ରେ ମୋର ସମସ୍ତ ଆପଏଣ୍ଟମେଣ୍ଟ ଏବଂ ବ୍ୟକ୍ତିଗତ ସୁଚନାବଳୀ ଅଛି | ଯତ୍ନର ସହ ପରିଚାଳିତ କରନ୍ତୁ |"</string>
+<string name="no_title_label">"(କିଛି ଶୀର୍ଷକ ନାହିଁ)"</string>
+</resources>

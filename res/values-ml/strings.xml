@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">"കലണ്ടര്‍ ശേഖരം"</string>
+<string name="calendar_default_name">"ഡീഫോള്‍ട്ട്"</string>
+<string name="calendar_info">"കലണ്ടര്‍ വിവരം"</string>
+<string name="calendar_info_error">"പിശക്‌"</string>
+<string name="calendar_info_no_calendars">"കലണ്ടറുകള്‍ ഒന്നും ലഭ്യമല്ല"</string>
+<string name="calendar_info_events">"ഇവന്റുകള്‍:<xliff:g id = "events">%1$d</xliff:g>"</string>
+<string name="calendar_info_events_dirty">"ഇവന്റുകള്‍: <xliff:g id="events">%1$d</xliff:g>, സൂക്ഷിക്കാത്തവ: <xliff:g id="dirty events">%2$d</xliff:g>"</string>
+<string name="provider_label">"കലണ്ടര്‍"</string>
+<string name="debug_tool_delete_button">"ഇപ്പോള്‍ ഇല്ലാതാക്കുക"</string>
+<string name="debug_tool_start_button">"തുടക്കം"</string>
+<string name="debug_tool_message">"താങ്കള്‍ ചെയ്യാന്‍ പോകുന്നത് 1) SD കാര്‍ഡ്/USB സ്റ്റോറേജിലേക്ക്, നിങ്ങളുടെ കലണ്ടര്‍ ഏത് ആപ്പിനും സ്വീകാര്യമായ ഡാറ്റാബേസിന്റെ കോപ്പി എടുക്കുന്നു 2) ഇത് ഇമെയില്‍ ചെയ്യുന്നു. താങ്കള്‍ വിജയകരമായി കോപ്പി ചെയ്തതിന് ശേഷം ഉടന്‍ തന്നെ അല്ലങ്കില്‍ ഇമെയില്‍ ലഭിച്ച ശേഷം കോപ്പി ഇല്ലാതാക്കാന്‍ മറക്കരുത്."</string>
+<string name="debug_tool_email_sender_picker">"ഫയല്‍ അയക്കുന്നതിന് ഒരു പ്രോഗ്രാം തെരഞ്ഞെടുക്കുക"</string>
+<string name="debug_tool_email_subject">"കലണ്ടര്‍ ഡാറ്റാബേസ് കൂട്ടിച്ചേര്‍ത്തു"</string>
+<string name="debug_tool_email_body">"എന്റെ എല്ലാ അപ്പോയിന്റ്മെന്റുകളും വ്യക്തിപരമായ വിവരങ്ങളും ഉള്‍പ്പെടുന്ന കലണ്ടര്‍ഡാറ്റാബേസാണ് അറ്റാച്ച് ചെയ്തിരിക്കുന്നത്. ശ്രദ്ധയോടെ കൈകാര്യം ചെയ്യുക"</string>
+<string name="no_title_label">"(ശീര്‍ഷകമില്ല)"</string>
+</resources>
